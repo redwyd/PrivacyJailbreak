@@ -1,4 +1,4 @@
-# <img src="./img/logo.png" style="zoom:50%;" />PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization
+# <img src="./img/logo.png" style="zoom:10%;" />PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization
 
 > This repository contains the official code implementation of our paper: [![arXiv: paper](https://img.shields.io/badge/arXiv-paper-red.svg)](https://arxiv.org/abs/xxx)
 
