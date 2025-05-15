@@ -19,10 +19,6 @@ Second, you need to install the necessary dependencies:
 pip install -r requirements.txt
 ```
 
-## Datasets
-
-You can download the Enron Email dataset and TrustLLM dataset [here](https://drive.google.com/drive/folders/16Th72F_QcxRAryOIk9L2t0oIps1xnHGW) and place them under the `./data`.
-
 ## Usage
 
 You can run a privacy jailbreak attack using the following steps:
