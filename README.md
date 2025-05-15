@@ -1,6 +1,6 @@
 # <img src="./img/logo.png" height=30px/> PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization
 
-> This repository contains the official code implementation of our paper: [![arXiv: paper](https://img.shields.io/badge/arXiv-paper-red.svg)](https://arxiv.org/abs/2505.6437443)
+[![arXiv: paper](https://img.shields.io/badge/arXiv-paper-red.svg)](https://arxiv.org/abs/2505.6437443)
 
 ![PIG](./img/PIG.png)
 
@@ -30,4 +30,4 @@ You can run a privacy jailbreak attack using the following steps:
 
 ## Acknowledgements
 
-Our PIG framework is based on [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak). We thank the team for their open-source implementation.
+> Our PIG framework is based on [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak). We thank the team for their open-source implementation.
