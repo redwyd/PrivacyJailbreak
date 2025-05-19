@@ -64,7 +64,7 @@ class Hacker(object):
                 model_name=model_name,
                 base_url="https://api.ai.cs.ac.cn/v1",
                 # base_url="https://openkey.cloud/v1",
-                api_keys="sk-1ZZ2ij3jHwwLo8zN0ESQWflomiPAXhWcRgMlRmMPwbZchshy",
+                api_keys="your api key",
                 generation_config={
                     'max_tokens': self.max_new_tokens,
                 }
@@ -73,7 +73,7 @@ class Hacker(object):
             return AnthropicModel(
                 model_name=model_name,
                 base_url="https://api.ai.cs.ac.cn",
-                api_keys="sk-1ZZ2ij3jHwwLo8zN0ESQWflomiPAXhWcRgMlRmMPwbZchshy",
+                api_keys="your api key",
                 generation_config={
                     'max_tokens': self.max_new_tokens,
                 }
@@ -81,7 +81,7 @@ class Hacker(object):
         elif 'gemini' in model_path:
             return GenaiModel(
                 model_name=model_name,
-                api_keys="AIzaSyBTD8Kv9KuUI2F35SvM2GOICoZIafvaze0",
+                api_keys="your api key",
                 generation_config={
                     'max_tokens': self.max_new_tokens,
                 }
